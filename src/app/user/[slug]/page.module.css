@@ -1,0 +1,11 @@
+.body {
+    margin-top: 25px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 80px;
+}
